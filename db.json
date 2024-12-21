@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "email": "Oussamataya@gmail.com",
+      "password": "$2a$10$aUr.Nf1Gq4BmjuQr4D8HcuLg8za9WVWVIkgpeKkKWcfQva5VB2DF.",
+      "name": "mohamed",
+      "username": "hhhh",
+      "role": "Admin",
+      "id": 3
+    },
+    {
+      "email": "Oussamataya@gmail.fr",
+      "password": "$2a$10$5E7T.7UCuI9GsA0Qtf4sN.7n6H/ymBTZmejqsyJiNVxl9A52mI66S",
+      "name": "oussama",
+      "username": "hhhh",
+      "role": "Admin",
+      "id": 4
+    }
+  ]
+}
